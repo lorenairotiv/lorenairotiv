@@ -12,3 +12,8 @@
 
 
 <a href="https://www.instagram.com/lorenairotiv" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" /></a> <a href="https://www.linkedin.com/in/lorena-cardozo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a> <a href="https://t.me/lorenairotiv" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
+
+
+🎮 Playing 
+
+<a href="https://tracker.gg/valorant/profile/riot/lorevit%232838/overview" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/valorant/#FA4454" /> <a href="https://overwatch.blizzard.com/en-us/career/lorenairotiv-2352/" target="blank"><img height="32" width="32" src="https://img.icons8.com/color/96/null/overwatch--v1.png" />
