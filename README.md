@@ -6,7 +6,7 @@
 
 📚 Studying UX Design
 
-🔍 Interested in graphic designer and Java
+🔍 Interested in graphic design and Java
 
 📫 lorenarocha81@gmail.com
 
