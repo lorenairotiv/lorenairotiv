@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! I'm Lorena. 😊
 
-<!--
-**lorenairotiv/lorenairotiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨Veterinarian and gamer
 
-Here are some ideas to get you started:
+📍 Fortaleza - CE | Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Studying UX Design
+
+🔍 Interested in graphic designer and Java
+
+📫 lorenarocha81@gmail.com
+
+
+<a href="https://www.instagram.com/lorenairotiv" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" /></a> <a href="https://www.linkedin.com/in/lorena-cardozo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a> <a href="https://t.me/lorenairotiv" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" /></a>
