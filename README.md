@@ -4,9 +4,9 @@
 
 📍 Fortaleza - CE | Brazil
 
-📚 Studying UX Design
+📚 Studying UX/UI Design
 
-🔍 Interested in graphic design and Java
+🔍 Interested in graphic design 
 
 📫 lorenarocha81@gmail.com
 
